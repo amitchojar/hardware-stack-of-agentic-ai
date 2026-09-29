@@ -123,7 +123,7 @@ agent, used to ground every number in a realistic workload.
 *Linear Algebra for Large Language Models, Part One* develops the
 mathematics behind attention, embeddings, and the transformer in depth. The
 two books are independent; each explains every concept it uses.
-
+**[Download Linear_Algebra_for_LLMs_Part_1.pdf](https://github.com/amitchojar/linear-algebra-for-llms/releases/latest/download/Linear_Algebra_for_LLMs_Part_1.pdf)**
 ---
 
 ## License
