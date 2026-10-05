@@ -24,7 +24,7 @@ next generation ships.
 
 | Volume | Contents | Version | Status | Individual Downloads | Download Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Part One: Following a Request Through the Stack** | Chapters 1–10 · Appendices A–G | `part-one-v1.0` | ✅ Available | ![Part One](https://img.shields.io/github/downloads/amitchojar/hardware-stack-of-agentic-ai/part-one-v1.0/total?label=Downloads&color=green) | [Get Part One PDF](https://github.com/amitchojar/hardware-stack-of-agentic-ai/releases/latest/download/The_Hardware_Stack_of_Agentic_AI_Part_1_ed_1.pdf) |
+| **Part One: Following a Request Through the Stack** | Chapters 1–10 · Appendices A–G | `part-one-v1.0` | ✅ Available | ![Part One](https://img.shields.io/github/downloads/amitchojar/hardware-stack-of-agentic-ai/part-one-v1.0/total?label=Downloads&color=green) | [Get Part One PDF](https://github.com/amitchojar/hardware-stack-of-agentic-ai/releases/download/part-one-v1.0/HardwareStackofAgenticAI_PartOne_ed1.pdf) |
 | **Part Two: Training and Bottlenecks** | Chapters 11–19 · Appendix A | — | 🕓 Forthcoming | — | — |
 
 **Part One is available now; Part Two is in preparation and will be released
@@ -39,13 +39,13 @@ volume.
 ## Who This Book Is For
 
 - **ML and inference engineers** who serve models and need to reason about
-  latency, throughput, and cost from first principles.
+latency, throughput, and cost from first principles.
 - **Backend and platform engineers** building agent systems who want to know
-  why an agent loop stalls, where the time goes, and which knob to turn.
+why an agent loop stalls, where the time goes, and which knob to turn.
 - **Infrastructure and capacity planners** sizing GPU fleets, KV-cache
-  memory, and interconnects for production agentic workloads.
+memory, and interconnects for production agentic workloads.
 - **Anyone** who has read that "decode is memory-bound" and wants the
-  derivation, not the slogan.
+derivation, not the slogan.
 
 Prerequisites: comfort with Python, basic linear algebra, and a working
 familiarity with transformers. Every hardware concept is explained in the
@@ -123,7 +123,7 @@ agent, used to ground every number in a realistic workload.
 *Linear Algebra for Large Language Models, Part One* develops the
 mathematics behind attention, embeddings, and the transformer in depth. The
 two books are independent; each explains every concept it uses.
-**[Download Linear_Algebra_for_LLMs_Part_1.pdf](https://github.com/amitchojar/linear-algebra-for-llms/releases/latest/download/Linear_Algebra_for_LLMs_Part_1.pdf)**
+
 ---
 
 ## License
@@ -135,19 +135,19 @@ Attribution-NonCommercial-ShareAlike 4.0 International License
 **You are free to:**
 
 - **Share** — copy and redistribute the material in any medium or format,
-  including downloading the PDF and sharing it with colleagues, students, or
-  online communities.
+including downloading the PDF and sharing it with colleagues, students, or
+online communities.
 - **Adapt** — remix, transform, and build upon the material.
 
 **Under the following terms:**
 
 - **Attribution** — You must give appropriate credit, provide a link to the
-  license, and indicate if changes were made.
+license, and indicate if changes were made.
 - **NonCommercial** — You may not use the material for commercial purposes.
-  No one may sell this book, place it behind a paywall, or use it to generate
-  revenue in any form.
+No one may sell this book, place it behind a paywall, or use it to generate
+revenue in any form.
 - **ShareAlike** — If you remix, transform, or build upon the material, you
-  must distribute your contributions under the same license.
+must distribute your contributions under the same license.
 
 Classroom and educational use is expressly encouraged: teachers and
 instructors may freely distribute this book to students at no charge without
@@ -161,12 +161,12 @@ Full license text: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ```bibtex
 @book{chojar2026hardwarestack,
-  author    = {Amit Chojar},
-  title     = {The Hardware Stack of Agentic AI: From Transistors to Tokens},
-  edition   = {First},
-  year      = {2026},
-  note      = {Part One},
-  url       = {https://github.com/amitchojar/hardware-stack-of-agentic-ai}
+author    = {Amit Chojar},
+title     = {The Hardware Stack of Agentic AI: From Transistors to Tokens},
+edition   = {First},
+year      = {2026},
+note      = {Part One},
+url       = {https://github.com/amitchojar/hardware-stack-of-agentic-ai}
 }
 ```
 
