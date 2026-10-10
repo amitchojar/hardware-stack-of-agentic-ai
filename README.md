@@ -24,7 +24,7 @@ next generation ships.
 
 | Volume | Contents | Version | Status | Individual Downloads | Download Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Part One: Following a Request Through the Stack** | Chapters 1–10 · Appendices A–K | `part-one-v1.0` | ✅ Available | ![Part One](https://img.shields.io/github/downloads/amitchojar/hardware-stack-of-agentic-ai/part-one-v1.0/total?label=Downloads&color=green) | [Get Part One PDF](https://github.com/amitchojar/hardware-stack-of-agentic-ai/releases/latest/download/The_Hardware_Stack_of_Agentic_AI_Part_1_ed_1.pdf) |
+| **Part One: Following a Request Through the Stack** | Chapters 1–10 · Appendices A–K | `part-one-v1.0` | ✅ Available | ![Part One](https://img.shields.io/github/downloads/amitchojar/hardware-stack-of-agentic-ai/latest/total?label=Downloads&color=green) | [Get Part One PDF](https://github.com/amitchojar/hardware-stack-of-agentic-ai/releases/latest/download/The_Hardware_Stack_of_Agentic_AI_Part_1_ed_1.pdf) |
 | **Part Two: Training and Bottlenecks** | Chapters 11–19 · Appendix A | — | 🕓 Forthcoming | — | — |
 
 **Part One is available now; Part Two is in preparation and will be released
